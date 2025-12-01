@@ -1,0 +1,14 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0"
+  }
+}
