@@ -1,9 +1,6 @@
 {
-  "name": "day1",
+  "name": "day2",
   "version": "1.0.0",
-  "scripts": {
-    "start": "tsx ./index.ts"
-  },
   "author": "",
   "license": "ISC",
   "description": "",
